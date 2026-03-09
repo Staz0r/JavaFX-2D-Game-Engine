@@ -1,0 +1,24 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse specific files
+.settings/
+.project
+.classpath
+build.fxbuild
+
+# Local History plugin
+.lh/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Build artifacts (if any)
+dist/
+build/
+out/
