@@ -4,6 +4,8 @@ A high-performance, top-down 2D game engine built from scratch using **JavaFX**.
 
 ## 📺 Gameplay Demo
 
+![Demo](https://github.com/Staz0r/JavaFX-2D-Game-Engine/raw/refs/heads/main/Demo.mp4)
+
 <div align="center">
   <video src="https://github.com/Staz0r/JavaFX-2D-Game-Engine/raw/refs/heads/main/Demo.mp4" width="100%" controls></video>
 </div>
