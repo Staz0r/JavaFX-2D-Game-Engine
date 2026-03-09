@@ -2,6 +2,12 @@
 
 A high-performance, top-down 2D game engine built from scratch using **JavaFX**. This project demonstrates advanced software engineering principles applied to game development, including custom rendering pipelines, state management, and entity-component-like architectures.
 
+## 📺 Gameplay Demo
+
+<div align="center">
+  <video src="Demo.mp4" width="100%" controls></video>
+</div>
+
 ## 🛠️ Technical Highlights
 
 ### 1. High-Performance Game Loop
